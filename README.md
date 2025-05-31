@@ -1,4 +1,4 @@
-# Discord Bot для Casa Grande
+# Discord Bot
 
 ## Описание
 Бот для управления сервером Casa Grande в Discord. Включает функционал для:
